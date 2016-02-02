@@ -1,2 +1,2 @@
-# Got-Wind
+# Got Wind?
 An amazing school project!
