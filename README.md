@@ -1,2 +1,2 @@
 # Got-Wind
-Gotta get windy!
+An amazing school project!
