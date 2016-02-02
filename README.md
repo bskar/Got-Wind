@@ -1,2 +1,2 @@
-# got-wind
-Gotta get windy
+# Got-Wind
+Gotta get windy!
